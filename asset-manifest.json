@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Advanced-Form/static/css/main.bfa12f55.css",
-    "main.js": "/Advanced-Form/static/js/main.478e1988.js",
-    "static/js/787.f9e7087e.chunk.js": "/Advanced-Form/static/js/787.f9e7087e.chunk.js",
-    "static/media/pexels-ylanite-koppens-1445416.jpg": "/Advanced-Form/static/media/pexels-ylanite-koppens-1445416.f1d5ef9d88847de282e2.jpg",
-    "static/media/primeicons.svg": "/Advanced-Form/static/media/primeicons.e1441b135b3ca9ad643c.svg",
-    "static/media/Inter-italic.var.woff2?v=3.19": "/Advanced-Form/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
-    "static/media/Inter-roman.var.woff2?v=3.19": "/Advanced-Form/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
-    "static/media/primeicons.eot": "/Advanced-Form/static/media/primeicons.d44157bdfa026dc877af.eot",
-    "static/media/primeicons.woff": "/Advanced-Form/static/media/primeicons.10d3152104f2208ac82a.woff",
-    "static/media/primeicons.ttf": "/Advanced-Form/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
-    "static/media/primeicons.woff2": "/Advanced-Form/static/media/primeicons.78172950b335ccdb94e2.woff2",
-    "index.html": "/Advanced-Form/index.html",
-    "main.bfa12f55.css.map": "/Advanced-Form/static/css/main.bfa12f55.css.map",
-    "main.478e1988.js.map": "/Advanced-Form/static/js/main.478e1988.js.map",
-    "787.f9e7087e.chunk.js.map": "/Advanced-Form/static/js/787.f9e7087e.chunk.js.map"
+    "main.css": "/Ajaym1618/Advanced-Form/static/css/main.fd129543.css",
+    "main.js": "/Ajaym1618/Advanced-Form/static/js/main.f364fecf.js",
+    "static/js/787.f9e7087e.chunk.js": "/Ajaym1618/Advanced-Form/static/js/787.f9e7087e.chunk.js",
+    "static/media/pexels-ylanite-koppens-1445416.jpg": "/Ajaym1618/Advanced-Form/static/media/pexels-ylanite-koppens-1445416.f1d5ef9d88847de282e2.jpg",
+    "static/media/primeicons.svg": "/Ajaym1618/Advanced-Form/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/Ajaym1618/Advanced-Form/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/Ajaym1618/Advanced-Form/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/primeicons.eot": "/Ajaym1618/Advanced-Form/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/Ajaym1618/Advanced-Form/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/Ajaym1618/Advanced-Form/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/Ajaym1618/Advanced-Form/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/Ajaym1618/Advanced-Form/index.html",
+    "main.fd129543.css.map": "/Ajaym1618/Advanced-Form/static/css/main.fd129543.css.map",
+    "main.f364fecf.js.map": "/Ajaym1618/Advanced-Form/static/js/main.f364fecf.js.map",
+    "787.f9e7087e.chunk.js.map": "/Ajaym1618/Advanced-Form/static/js/787.f9e7087e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfa12f55.css",
-    "static/js/main.478e1988.js"
+    "static/css/main.fd129543.css",
+    "static/js/main.f364fecf.js"
   ]
 }
