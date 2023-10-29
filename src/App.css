@@ -1,0 +1,145 @@
+body{
+  background-image:url(../public/pexels-ylanite-koppens-1445416.jpg) ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  overscroll-behavior: none; 
+}
+
+.contain{
+  width: 30vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+}
+
+.contain h1{
+  color: white;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(0,0,0,0.4);
+  border-radius: 10px;
+  margin: 10px;
+  padding: 19px 0 19px 0;
+}
+
+.form-data{
+  margin: 15px;
+}
+
+.form-data #username{
+  width: 300px;
+}
+
+.p-password-input{
+  width: 300px;
+}
+
+/* Modal */
+
+ #fname, #lname, #phoneNo, #email, #address{
+  width: 350px;
+}
+
+.inp-data{
+  margin: 22px;
+}
+
+button{
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+#btn{
+  margin-bottom: 20px;
+}
+
+ label{
+  color: black;
+}
+
+/* Table */
+
+
+
+.table tr,td{
+  text-align: center;
+  background: rgba(0,0,0,0.3);
+  color: white;
+  font-weight: 700;
+  border: 1px solid white;
+}
+
+
+.p-datatable-wrapper{
+  width: 68vw;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.p-paginator{
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.table{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.return{
+  display: flex;
+  width: 100%;
+  height: 90vh;
+}
+
+
+.con{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(0,0,0,0.4);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.btn-view{
+  width: 100%;
+  text-align: center;
+}
+
+
+.charts{
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  border: 2px solid white;
+  padding: 20px;
+}
+
+.charts div{
+  width: 50%;
+  margin-right: 20px;
+  color: white;
+}
+
+.pie-div{
+  border-right: 2px solid white;
+  height: 80vh;
+}

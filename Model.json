@@ -1,0 +1,60 @@
+{
+  "Data": [
+    {
+      "fname": "Ajith",
+      "lname": "kanna",
+      "phoneNo": "735880798",
+      "email": "ajith@gmail.com",
+      "address": "67A, kottardon sreet, kottar",
+      "id": 3
+    },
+    {
+      "fname": "Ajith",
+      "lname": "kanna",
+      "phoneNo": "735880798",
+      "email": "ajith@gmail.com",
+      "address": "67A, kottardon sreet, kottar",
+      "id": 4
+    },
+    {
+      "fname": "sharan",
+      "lname": "B",
+      "phoneNo": "735880798",
+      "email": "ajith@gmail.com",
+      "address": "67A, kottardon sreet, kottar",
+      "id": 5
+    },
+    {
+      "fname": "Abino",
+      "lname": "Amiry",
+      "phoneNo": "735880798",
+      "email": "ajith@gmail.com",
+      "address": "67A, kottardon sreet, kottar",
+      "id": 6
+    },
+    {
+      "fname": "Ajith",
+      "lname": "kanna",
+      "phoneNo": "735880798",
+      "email": "ajith@gmail.com",
+      "address": "67A, kottardon sreet, kottar",
+      "id": 7
+    },
+    {
+      "fname": "Ajith",
+      "lname": "kanna",
+      "phoneNo": "735880798",
+      "email": "ajith@gmail.com",
+      "address": "67A, kottardon sreet, kottar",
+      "id": 8
+    },
+    {
+      "fname": "Ajith",
+      "lname": "kanna",
+      "phoneNo": "735880798",
+      "email": "ajith@gmail.com",
+      "address": "67A, kottardon sreet, kottar",
+      "id": 9
+    }
+  ]
+}
