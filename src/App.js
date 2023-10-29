@@ -10,7 +10,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="https://Ajaym1618.github.io/Advanced-Form/" element={<Login />} />
+        <Route path="https://Ajaym1618.github.io/Advanced-Form/Login" element={<Login />} />
         <Route path="https://Ajaym1618.github.io/Advanced-Form/Form" element={<FullForm />} />
         <Route path="https://Ajaym1618.github.io/Advanced-Form/View" element={<ViewDetails />} />
         <Route path="https://Ajaym1618.github.io/Advanced-Form/chart" element={<PieChart />} />
