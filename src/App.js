@@ -10,10 +10,10 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="https://Ajaym1618.github.io/Advanced-Form/Login" element={<Login />} />
-        <Route path="https://Ajaym1618.github.io/Advanced-Form/Form" element={<FullForm />} />
-        <Route path="https://Ajaym1618.github.io/Advanced-Form/View" element={<ViewDetails />} />
-        <Route path="https://Ajaym1618.github.io/Advanced-Form/chart" element={<PieChart />} />
+        <Route path="/" element={<Login />} />
+        <Route path="/Form" element={<FullForm />} />
+        <Route path="/View" element={<ViewDetails />} />
+        <Route path="/chart" element={<PieChart />} />
       </Routes>
     </Router>
   );

@@ -15,11 +15,9 @@ const PieChart = () => {
       })
   }, []);
 
-  // Extract labels and values from the data
   const labels = data.slice().reverse().map((item) => `${item.fname} ${item.lname}`);
   const values = data.slice().reverse().map((item) => item.id);
 
-  // Create data for the pie chart
   const pieChartData =  {
     labels: labels,
     datasets: [
@@ -27,7 +25,6 @@ const PieChart = () => {
         data: values,
         backgroundColor: [
           'red', 'blue', 'green', 'orange', 'purple', 'yellow',
-          // Add more colors if needed
         ],
       },
     ],
@@ -37,7 +34,7 @@ const PieChart = () => {
     <div className='charts'>
       <div style={{ Width: '100%' }} className='pie-div'>
         <h1>Users Pie Chart</h1>
-          <Pie data={pieChartData} />
+          <Pie data={pieChartData} className='pie'/>
       </div>
       <>
         <BarChart/>

@@ -55,19 +55,19 @@ const BarChart = () => {
       })
   }, []);
 
-  // Extract labels and values from the data
+
   const labels = data.map((item) => `${item.fname} ${item.lname}`);
   const values = data.map((item) => item.id);
 
-  // Create data for the bar chart
+
   const barChartData = {
     labels: labels,
     datasets: [
       {
         label: 'User IDs',
         data: values,
-        backgroundColor: 'teal', // You can change the color as needed
-        borderColor: 'rgba(75, 192, 192, 1', // You can change the color as needed
+        backgroundColor: 'teal', 
+        borderColor: 'rgba(75, 192, 192, 1', 
         borderWidth: 1,
       },
     ],

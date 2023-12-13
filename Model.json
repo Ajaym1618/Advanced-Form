@@ -1,60 +1,28 @@
 {
   "Data": [
     {
-      "fname": "Ajith",
-      "lname": "kanna",
-      "phoneNo": "735880798",
-      "email": "ajith@gmail.com",
-      "address": "67A, kottardon sreet, kottar",
-      "id": 3
+      "fname": "Ajay",
+      "lname": "M",
+      "phoneNo": "9876543210",
+      "email": "john@gmail.com",
+      "address": "12, north street, london.",
+      "id": 1
     },
     {
-      "fname": "Ajith",
-      "lname": "kanna",
-      "phoneNo": "735880798",
-      "email": "ajith@gmail.com",
-      "address": "67A, kottardon sreet, kottar",
-      "id": 4
-    },
-    {
-      "fname": "sharan",
-      "lname": "B",
-      "phoneNo": "735880798",
-      "email": "ajith@gmail.com",
-      "address": "67A, kottardon sreet, kottar",
-      "id": 5
-    },
-    {
-      "fname": "Abino",
+      "fname": "Abino ",
       "lname": "Amiry",
-      "phoneNo": "735880798",
-      "email": "ajith@gmail.com",
-      "address": "67A, kottardon sreet, kottar",
-      "id": 6
+      "phoneNo": "9876543210",
+      "email": "abino@gmail.com",
+      "address": "12, north street, london",
+      "id": 2
     },
     {
       "fname": "Ajith",
       "lname": "kanna",
-      "phoneNo": "735880798",
+      "phoneNo": "9876543210",
       "email": "ajith@gmail.com",
-      "address": "67A, kottardon sreet, kottar",
-      "id": 7
-    },
-    {
-      "fname": "Ajith",
-      "lname": "kanna",
-      "phoneNo": "735880798",
-      "email": "ajith@gmail.com",
-      "address": "67A, kottardon sreet, kottar",
-      "id": 8
-    },
-    {
-      "fname": "Ajith",
-      "lname": "kanna",
-      "phoneNo": "735880798",
-      "email": "ajith@gmail.com",
-      "address": "67A, kottardon sreet, kottar",
-      "id": 9
+      "address": "12, north street, london.",
+      "id": 3
     }
   ]
 }

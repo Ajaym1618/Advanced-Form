@@ -128,7 +128,7 @@ button{
 .charts{
   display: flex;
   width: 100%;
-  height: 100vh;
+  height: 90vh;
   border: 2px solid white;
   padding: 20px;
 }
@@ -141,5 +141,9 @@ button{
 
 .pie-div{
   border-right: 2px solid white;
-  height: 80vh;
+  height: 70vh;
+}
+
+.pie{
+  height: 50vh;
 }
