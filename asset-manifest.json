@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ajaym1618/Advanced-Form/static/css/main.fd129543.css",
-    "main.js": "/Ajaym1618/Advanced-Form/static/js/main.f364fecf.js",
+    "main.css": "/Ajaym1618/Advanced-Form/static/css/main.cf77198c.css",
+    "main.js": "/Ajaym1618/Advanced-Form/static/js/main.506d4011.js",
     "static/js/787.f9e7087e.chunk.js": "/Ajaym1618/Advanced-Form/static/js/787.f9e7087e.chunk.js",
     "static/media/pexels-ylanite-koppens-1445416.jpg": "/Ajaym1618/Advanced-Form/static/media/pexels-ylanite-koppens-1445416.f1d5ef9d88847de282e2.jpg",
     "static/media/primeicons.svg": "/Ajaym1618/Advanced-Form/static/media/primeicons.e1441b135b3ca9ad643c.svg",
@@ -12,12 +12,12 @@
     "static/media/primeicons.ttf": "/Ajaym1618/Advanced-Form/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
     "static/media/primeicons.woff2": "/Ajaym1618/Advanced-Form/static/media/primeicons.78172950b335ccdb94e2.woff2",
     "index.html": "/Ajaym1618/Advanced-Form/index.html",
-    "main.fd129543.css.map": "/Ajaym1618/Advanced-Form/static/css/main.fd129543.css.map",
-    "main.f364fecf.js.map": "/Ajaym1618/Advanced-Form/static/js/main.f364fecf.js.map",
+    "main.cf77198c.css.map": "/Ajaym1618/Advanced-Form/static/css/main.cf77198c.css.map",
+    "main.506d4011.js.map": "/Ajaym1618/Advanced-Form/static/js/main.506d4011.js.map",
     "787.f9e7087e.chunk.js.map": "/Ajaym1618/Advanced-Form/static/js/787.f9e7087e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd129543.css",
-    "static/js/main.f364fecf.js"
+    "static/css/main.cf77198c.css",
+    "static/js/main.506d4011.js"
   ]
 }
